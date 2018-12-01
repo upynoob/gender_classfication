@@ -8,4 +8,4 @@ Dependencies
 
 Usage
 
-python genderclassification.py
+python genderclassifier.py
